@@ -1,4 +1,4 @@
-# American Express Data Analysis with Neural Networks
+# American Express Data Analysis using Artificial Neural Network
 
 ## Project Overview
 
